@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: darkblue;
+    size: 4rem;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    /* font-size: 20px; */
+}
